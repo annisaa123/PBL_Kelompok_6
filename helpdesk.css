@@ -1,0 +1,20 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3e0e0;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Main content box styling */
+.main-content {
+    background-color: #f3e0e0;
+    border: 1px solid #636c75 
+    border-radius: 10px; /* Rounded corners */
+    padding: 30px; /* Space inside the box */
+    box-shadow: 0 4px 8px rgba(92, 86, 86, 0.1); /* Subtle shadow */
+    margin: 40px auto; /* Center the box with top/bottom spacing */
+    max-width: 900px; /* Restrict the width of the content */
+}
